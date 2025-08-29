@@ -43,7 +43,7 @@
   *Monetization planned—not fully open-source.*
 
 - **Rust Error with Location**  
-  **DONE:** ~80% **PRIO:** low  
+  **DONE:** ✅ 100% **PRIO:** low  
   A library that leverages `panic!` location info to pinpoint errors.  
   *Ideal for Rust beginners and rapid prototyping. Just needs docs/examples before hitting crates.io.*
 
@@ -57,7 +57,7 @@
 ## 🗺️ Roadmap
 
 - Complete the GeoSorter
-- Ship the Rust error library
+- ✅ Ship the Rust error library
 - Finish the private key converter
 - Next steps To Be Determined!
 
